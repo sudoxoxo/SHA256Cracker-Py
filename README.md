@@ -9,5 +9,5 @@ Key Features:
 Usage:
 Run the script using - 
 
-python3 SHA256.py <sha256hash>
+python3 SHA256.py [sha256hash]
 
